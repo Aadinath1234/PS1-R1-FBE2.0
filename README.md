@@ -6,8 +6,7 @@ A responsive, theme-toggleable landing page built using **React**, **TailwindCSS
 
 ## 📸 Preview
 
-> ![Dark & Light Mode Demo](./public/assets/preview.png)  
-*(Replace with actual screenshot)*
+> ![Live Demo] https://ps-1-r1-fbe-2-0.vercel.app/
 
 ---
 
